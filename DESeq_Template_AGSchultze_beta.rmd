@@ -8,6 +8,8 @@ output:
     toc_float: true
 ---
 
+TEST
+
 # 1. R requirements
 
 ## Install and load packages
